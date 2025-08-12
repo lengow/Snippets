@@ -1,3 +1,3 @@
 apt update
-apt install vim tmux
+apt install -y vim tmux
 python -m pip install ipdb
